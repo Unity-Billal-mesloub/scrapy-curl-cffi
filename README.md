@@ -77,12 +77,12 @@ meta keys configure the crawler's behavior in an expected manner.
 
 ## Similar projects
 
-- [scrapy-impersonate](https://github.com/jxlil/scrapy-impersonate)
-- [scrapy-fingerprint](https://github.com/tieyongjie/scrapy-fingerprint)
+- [scrapy-impersonate](https://github.com/Unity-Billal-mesloub/scrapy-impersonate)
+- [scrapy-fingerprint](https://github.com/Unity-Billal-mesloub/scrapy-fingerprint)
 
-[1]: https://github.com/scrapy/scrapy
-[2]: https://github.com/lexiforest/curl_cffi
-[3]: https://github.com/lexiforest/curl-impersonate
+[1]: https://github.com/Unity-Billal-mesloub/scrapy
+[2]: https://github.com/Unity-Billal-mesloub/curl_cffi
+[3]: https://github.com/Unity-Billal-mesloub/curl-impersonate
 [4]: https://docs.scrapy.org/en/latest/topics/request-response.html#request-objects
 [5]: https://docs.scrapy.org/en/latest/topics/request-response.html#scrapy.Request.meta
 [6]: https://curl-cffi.readthedocs.io/en/latest/api.html#requests-like-api
